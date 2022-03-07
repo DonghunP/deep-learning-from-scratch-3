@@ -1,11 +1,7 @@
-<p>
-<a href="http://www.yes24.com/Product/Goods/95343845"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/cover.jpg" height="200" align=right></a>
-</p>
-
 ## DeZero 빌드 현황
 
 <p>
-<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-3/images/dezero_logo.png" width="400px"> </p>
+<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-3/images/dezero_logo.png" width="200px"> </p>
 
 <p>
   <a href="https://pypi.python.org/pypi/dezero"><img
