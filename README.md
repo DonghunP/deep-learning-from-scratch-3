@@ -1,7 +1,3 @@
-<p>
-<a href="http://www.yes24.com/Product/Goods/95343845"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/cover.jpg" height="200" align=right></a>
-</p>
-
 ## DeZero 빌드 현황
 
 <p>
