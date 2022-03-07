@@ -1,7 +1,7 @@
 ## DeZero 빌드 현황
 
 <p>
-<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-3/images/dezero_logo.png" width="400px"> </p>
+<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-3/images/dezero_logo.png" width="200px"> </p>
 
 <p>
   <a href="https://pypi.python.org/pypi/dezero"><img
@@ -15,6 +15,7 @@
 		src="https://travis-ci.org/oreilly-japan/deep-learning-from-scratch-3.svg?branch=master"></a>
 </p>
 
+<a href="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.pdf"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.png" width=700></a>
 
 ## 파일 구성
 
